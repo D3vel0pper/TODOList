@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">TODOList</string>
     <string name="action_settings">Settings</string>
+    <string name="example_title1">ExampleTitle</string>
+    <string name="example_title2">SampleTitle</string>
+    <string name="example_title3">HogeHoge</string>
+    <string name="example_text1">example example example</string>
+    <string name="example_text2">sample\nsample</string>
+    <string name="example_text3">・fuga\n・foo\n・bar</string>
 </resources>
